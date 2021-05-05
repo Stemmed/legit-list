@@ -6,12 +6,19 @@ ___
 ##### » PuttyDotExe 
 ##### Putty is a great developer with a large portfolio and is very good at what he does. You can always count on him to develop whatever you need, his current project being DynamicPvP.
 
-##### Discord »
+##### Discord » putty#2396
+
+#### Rating 9/10
 ___
 
-##### » 
+##### »   Vyan
 
-##### 
+##### Vyan is a very skilled developer with a large portfolio. His languages come under Java, C, C++, Python, JavaScript and PHP. He also has his own custom anticheat. I would highly reccomend working with him.
+
+##### https://sparky.ac
+##### Rating 9.5/10
+
+##### Discord » vyan#2060
 
 ___
 
