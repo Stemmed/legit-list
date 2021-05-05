@@ -8,7 +8,7 @@ ___
 
 ##### Discord » putty#2396
 
-#### Rating 9/10
+#### Rating 10/10
 ___
 
 ##### »   Vyan
@@ -16,7 +16,7 @@ ___
 ##### Vyan is a very skilled developer with a large portfolio. His languages come under Java, C, C++, Python, JavaScript and PHP. He also has his own custom anticheat. I would highly reccomend working with him.
 
 ##### https://sparky.ac
-##### Rating 9.5/10
+##### Rating 10/10
 
 ##### Discord » vyan#2060
 
