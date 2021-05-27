@@ -8,7 +8,7 @@ ___
 
 ##### Discord » putty#2396
 
-#### Rating 10/10
+#### Rating 9/10
 ___
 
 ##### »   Vyan
@@ -16,16 +16,18 @@ ___
 ##### Vyan is a very skilled developer with a large portfolio. His languages come under Java, C, C++, Python, JavaScript and PHP. He also has his own custom anticheat. I would highly reccomend working with him.
 
 ##### https://sparky.ac
-##### Rating 10/10
+##### Rating 8/10
 
 ##### Discord » vyan#2060
 
 ___
 
-##### » 
+##### » Escapies
 
-##### 
-##### 
+##### Escapies is a developer with a large portfolio one his main project of all time being AdeptMC if you want a decent developer that actually works well on servers. Contact him for prices.
+
+#### Discord » Escapies#0001
+#### Rating 7.5/10
 ___
 
 ##### » 
